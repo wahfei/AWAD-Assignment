@@ -72,12 +72,15 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 2. Clone your forked copy of the project.
 
 git clone https://github.com/<your_user_name>/AWAD-Assignment.git
+
 3. Navigate to the project directory 📁 .
 
 cd WAD_AndroidAssignment
+
 4. Add a reference(remote) to the original repository.
 
 git remote add upstream https://github.com/wahfei/AWAD-Assignment.git 
+
 5. Check the remotes for this repository.
 
 git remote -v
